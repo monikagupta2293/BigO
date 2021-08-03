@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "node FindNemoLinerTime.js"
+run = "node ConstantTimeBigO.js"
