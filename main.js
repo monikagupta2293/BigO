@@ -1,14 +1,3 @@
-const nemo = ['nemo'];
+const boxes = [0,1,2,3,4,5];
 
-function findnemo(array)
-{
-  for(let i =0; i< array.length; i++)
-  {
-    if('nemo'== array[i])
-    {
-      console.log("Found nemo!");
-    }
-  }
-}
-
-findnemo(nemo);
+import {compressfirstBox} from ConstantTimeBigO.js;

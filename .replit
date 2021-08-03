@@ -1,2 +1,2 @@
 language = "nodejs"
-run = "main.js"
+run = "node ConstantTimeBigO.js"
